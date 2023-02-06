@@ -1,3 +1,4 @@
+nkverb/
 module github.com/skx/webmail
 
 go 1.15

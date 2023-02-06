@@ -1,5 +1,8 @@
+nkverb/
 [![Go Report Card](https://goreportcard.com/badge/github.com/skx/webmail)](https://goreportcard.com/report/github.com/skx/webmail)
+nkverb/
 [![license](https://img.shields.io/github/license/skx/webmail.svg)](https://github.com/skx/webmail/blob/master/LICENSE)
+nkverb/
 [![Release](https://img.shields.io/github/release/skx/webmail.svg)](https://github.com/skx/webmail/releases/latest)
 
 # Webmail
@@ -38,7 +41,9 @@ There are a collection of screenshots here:
 
 To install this run:
 
+nkverb/
      ~ $ go get -u github.com/skx/webmail
+nkverb/
      ~ $ go install github.com/skx/webmail
 
 ## Usage
@@ -99,7 +104,9 @@ then rebuild the compiled versions via the `implant` tool.
 
 If you don't already have `implant` installed fetch it like so:
 
+nkverb/
      go get -u  github.com/skx/implant/
+nkverb/
      go install github.com/skx/implant/
 
 Now regenerate the compiled version(s) of the templates and rebuild the
