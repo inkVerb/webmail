@@ -1,5 +1,5 @@
 nkverb/
-module github.com/inkverb/webmail
+module 'github.com/inkverb/webmail'
 
 go 1.15
 
