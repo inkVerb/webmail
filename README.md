@@ -1,9 +1,9 @@
 nkverb/
-[![Go Report Card](https://goreportcard.com/badge/github.com/skx/webmail)](https://goreportcard.com/report/github.com/skx/webmail)
+[![Go Report Card](https://goreportcard.com/badge/github.com/inkverb/webmail)](https://goreportcard.com/report/github.com/inkverb/webmail)
 nkverb/
-[![license](https://img.shields.io/github/license/skx/webmail.svg)](https://github.com/skx/webmail/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/inkverb/webmail.svg)](https://github.com/inkverb/webmail/blob/master/LICENSE)
 nkverb/
-[![Release](https://img.shields.io/github/release/skx/webmail.svg)](https://github.com/skx/webmail/releases/latest)
+[![Release](https://img.shields.io/github/release/inkverb/webmail.svg)](https://github.com/inkverb/webmail/releases/latest)
 
 # Webmail
 
@@ -42,9 +42,9 @@ There are a collection of screenshots here:
 To install this run:
 
 nkverb/
-     ~ $ go get -u github.com/skx/webmail
+     ~ $ go get -u github.com/inkverb/webmail
 nkverb/
-     ~ $ go install github.com/skx/webmail
+     ~ $ go install github.com/inkverb/webmail
 
 ## Usage
 
@@ -105,9 +105,9 @@ then rebuild the compiled versions via the `implant` tool.
 If you don't already have `implant` installed fetch it like so:
 
 nkverb/
-     go get -u  github.com/skx/implant/
+     go get -u  github.com/inkverb/implant/
 nkverb/
-     go install github.com/skx/implant/
+     go install github.com/inkverb/implant/
 
 Now regenerate the compiled version(s) of the templates and rebuild the
 binary to make your changes:
